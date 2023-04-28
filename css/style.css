@@ -74,3 +74,8 @@ header {
 	display: inline-block;
 	margin: 50px;
   }
+
+  footer{
+	height: 60px;
+	background-color: lightcoral;
+  }
